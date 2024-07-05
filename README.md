@@ -1,2 +1,2 @@
 # College-Assignment
-Collection of assignments I done in college
+This is a collection of the college assignments I have done.
